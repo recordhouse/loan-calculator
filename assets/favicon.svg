@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="대출 계산기 아이콘">
+  <rect width="64" height="64" rx="14" fill="#145c53"/>
+  <rect x="15" y="10" width="34" height="44" rx="7" fill="#ffffff"/>
+  <rect x="20" y="16" width="24" height="8" rx="3" fill="#dce5e2"/>
+  <path d="M24 30h16M26 36h12M29 30v12M35 30v12" stroke="#145c53" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="45" cy="45" r="11" fill="#f0b44c"/>
+  <path d="M40 45h10M42 41h6M42 49h6" stroke="#1e2a25" stroke-width="2.4" stroke-linecap="round"/>
+</svg>

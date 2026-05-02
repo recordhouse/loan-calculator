@@ -1,0 +1,17 @@
+{
+  "name": "대출 계산기",
+  "short_name": "대출계산기",
+  "description": "월 상환금, 총 이자, 총 상환액을 계산하는 대출 계산기입니다.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f8f7",
+  "theme_color": "#145c53",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
